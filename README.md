@@ -1,5 +1,5 @@
-Weather Application
-Overview
+#Weather Application
+##Overview
 This Android weather application provides real-time weather updates for the user’s current location. It fetches weather data from the OpenWeatherMap API and displays information such as temperature, humidity, wind speed, and weather conditions.
 
 Features
